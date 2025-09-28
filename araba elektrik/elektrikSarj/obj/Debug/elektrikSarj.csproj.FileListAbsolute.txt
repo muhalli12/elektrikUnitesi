@@ -1,0 +1,14 @@
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\bin\Debug\elektrikSarj.exe.config
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\bin\Debug\elektrikSarj.exe
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\bin\Debug\elektrikSarj.pdb
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.csproj.AssemblyReference.cache
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.Form1.resources
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.Properties.Resources.resources
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.csproj.GenerateResource.cache
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.exe
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.pdb
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrikSarj.exe.config
+C:\Users\Muhammed Ali\Desktop\elektrik\elektrikSarj\obj\Debug\elektrik.7292034F.Up2Date
